@@ -33,10 +33,13 @@ p{
 }
 .email{
   width: 25em;
-  height: 2em;
+  height: 2.5em;
+  border: ;
 }
 .btn-sub{
   background-color: #111827;
   color: #fff;
   border: 0px solid;
+  padding: 0.8em 1.2em 0.8em 1.2em;
+  border-radius: 5px;
 }
