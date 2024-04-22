@@ -11,4 +11,14 @@ height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #fff;
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(161, 161, 161, 0.2);
+}
+h1{
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
 }
